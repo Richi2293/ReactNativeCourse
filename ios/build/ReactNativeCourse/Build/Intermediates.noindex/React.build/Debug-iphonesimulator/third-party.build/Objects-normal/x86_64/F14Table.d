@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/abib/Documents/Development/Udemy/React-Native-The-Practical-Guide/ReactNativeCourse/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h

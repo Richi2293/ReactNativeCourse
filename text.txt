@@ -1,0 +1,53 @@
+RNVectorIconsModule not available, did you properly integrate the module? Try running `react-native link react-native-vector-icons` and recompiling.
+ensureNativeModuleAvailable
+    platformSpecificDeprecated.android.js:718:20
+getImageSource
+
+startTabs
+    platformSpecificDeprecated.android.js:415:2
+loginHandler
+    platformSpecificDeprecated.android.js:380:29
+touchableHandlePress
+    AnimatedEvent.js:59:35
+_performSideEffectsForTransition
+    TVEventHandler.js:27:32
+_receiveSignal
+    PooledClass.js:62:4
+touchableHandleResponderRelease
+    Touchable.js:942:21
+invokeGuardedCallbackImpl
+
+invokeGuardedCallback
+    DeviceInfo.js:17:22
+invokeGuardedCallbackAndCatchFirstError
+    ReactNativeStyleAttributes.js:11
+executeDispatch
+    normalizeColor.js:141:2
+executeDispatchesInOrder
+    normalizeColor.js:163:20
+executeDispatchesAndRelease
+    normalizeColor.js:217:14
+forEachAccumulated
+    normalizeColor.js:241:11
+runEventsInBatch
+    normalizeColor.js:217:14
+runExtractedEventsInBatch
+    normalizeColor.js:217:14
+<unknown>
+    factoryWithTypeCheckers.js:571:6
+batchedUpdates$1
+    ReactNativeRenderer-dev.js:15139:14
+batchedUpdates
+
+_receiveRootNodeIDEvent
+    factoryWithTypeCheckers.js:570:6
+receiveTouches
+    factoryWithThrowingShims.js:13
+__callFunction
+
+<unknown>
+    MessageQueue.js:164:26
+__guard
+
+callFunctionReturnFlushedQueue
+
